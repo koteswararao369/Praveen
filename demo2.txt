@@ -1,0 +1,7 @@
+koti
+orange
+red
+label
+sample
+docker
+files 
